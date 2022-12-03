@@ -1,16 +1,6 @@
 # digimon_list
 
-A new Flutter project.
+Mengambil data dari REST API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Hasil
+![Screenshot (189)](https://user-images.githubusercontent.com/114141633/205431613-d7daf1e8-a6a4-4fe3-822a-58886973d169.png)
